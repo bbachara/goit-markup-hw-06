@@ -728,9 +728,6 @@ body {
 
 .footer-form {
   display: flex;
-}
-
-.footer-label {
   gap: 24px;
 }
 
@@ -739,7 +736,7 @@ body {
   border: 1px solid var(--color-white-background);
   border-radius: 4px;
   color: var(--color-white-background);
-  margin-right: 24px;
+
   padding-left: 16px;
 
   width: 264px;
