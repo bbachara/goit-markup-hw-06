@@ -647,6 +647,8 @@ body {
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* modal */
+
 .modal {
   position: absolute;
   top: 50%;
@@ -701,6 +703,8 @@ body {
   transform: translateY(100%);
 }
 
+/* useless start */
+
 .box-box {
   position: relative;
   overflow: hidden;
@@ -721,6 +725,8 @@ body {
   transform: translateY(100%);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+/* useless end*/
 
 .subscribe-container {
   margin-left: 80px;
@@ -865,11 +871,15 @@ body {
   margin-bottom: 24px;
 }
 
+/* useless start */
+
 .hidden {
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
 }
+
+/* useless end */
 
 .policy-input {
   border: 1px solid var(--color-modal-overlay);
